@@ -1,4 +1,7 @@
-### Backend Assignment
+Here’s the updated README file with the section about installing MongoDB Compass:
+
+```markdown
+# Backend Assignment
 
 This repository contains the backend part of the assignment.
 The backend is built with Node.js and Express, providing RESTful APIs for interacting with the frontend and fetching data from external sources like Spotify and Gemini.
@@ -63,13 +66,17 @@ To set up and run this project locally, follow these steps:
    PORT=your_server_port
    ```
 
+4. **Install and Set Up MongoDB Compass:**
+   - Download and install MongoDB Compass from the [MongoDB Compass download page](https://www.mongodb.com/products/compass).
+   - Open MongoDB Compass and connect to your MongoDB database using the connection string you provided in your `.env` file (`MONGO_URI`).
+
 ### Steps to Fetch Data from Spotify
 
 1. **Set up Spotify API credentials:**
    Obtain your Spotify API credentials (Client ID and Client Secret) from the [Spotify Developer Dashboard](https://developer.spotify.com/dashboard/applications).
 
 2. **Store credentials:**
-   Store your Spotify API credentials in a `.env` file in the root directory as mentionned above.
+   Store your Spotify API credentials in a `.env` file in the root directory as mentioned above.
 
 ## Running the Application
 
@@ -122,5 +129,4 @@ spotifyGenresArtists-GeminiChat-backend/
 ## Thank You
 
 Thank you for checking out this project. Feel free to reach out if you have any questions or feedback.
-
 ```
