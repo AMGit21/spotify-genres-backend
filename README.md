@@ -46,7 +46,6 @@ To set up and run this project locally, follow these steps:
    git clone https://github.com/AMGit21/spotifyGenresArtists-GeminiChat-backend.git
    cd spotifyGenresArtists-GeminiChat-backend
    ```
-````
 
 2. **Install dependencies:**
 
