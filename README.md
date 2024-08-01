@@ -44,8 +44,8 @@ To set up and run this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/AMGit21/spotify-genres-backend.git
-   cd spotify-genres-backend
+   git clone https://github.com/AMGit21/spotifyGenresArtists-GeminiChat-backend.git
+   cd spotifyGenresArtists-GeminiChat-backend
    ```
 ````
 
@@ -98,7 +98,7 @@ This will start the backend server on [http://localhost:4000](http://localhost:4
 ## Folder Structure
 
 ```
-spotify-genres-backend/
+spotifyGenresArtists-GeminiChat-backend/
 ├── src/
 │   ├── config/
 │   │   └── db.js
@@ -124,7 +124,5 @@ spotify-genres-backend/
 ## Thank You
 
 Thank you for checking out this project. Feel free to reach out if you have any questions or feedback.
-
-```
 
 ```
