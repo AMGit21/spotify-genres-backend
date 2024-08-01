@@ -1,5 +1,4 @@
-````markdown
-# Backend Assignment
+### Backend Assignment
 
 This repository contains the backend part of the assignment.
 The backend is built with Node.js and Express, providing RESTful APIs for interacting with the frontend and fetching data from external sources like Spotify and Gemini.
