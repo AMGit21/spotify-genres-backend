@@ -1,7 +1,4 @@
-Here’s the updated README file with the section about installing MongoDB Compass:
-
-```markdown
-# Backend Assignment
+### Backend README
 
 This repository contains the backend part of the assignment.
 The backend is built with Node.js and Express, providing RESTful APIs for interacting with the frontend and fetching data from external sources like Spotify and Gemini.
